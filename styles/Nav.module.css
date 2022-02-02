@@ -1,0 +1,12 @@
+.container {
+    background: black;
+    color: white;
+    display: flex;
+}
+.flex {
+    display: flex;
+}
+.flex li{
+    margin-right: 1rem;
+    list-style: none;
+}
